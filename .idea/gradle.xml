@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/3 - Consuming a RESTful web service" />
+        <option name="gradleJvm" value="liberica-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/3 - Consuming a RESTful web service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/4 - Accessing Relational Data using JDBC with Spring" />
+        <option name="gradleJvm" value="liberica-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/4 - Accessing Relational Data using JDBC with Spring" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Building a RESTful Web Service" />
+        <option name="gradleJvm" value="liberica-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Building a RESTful Web Service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Scheduling Tasks" />
+        <option name="gradleJvm" value="liberica-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Scheduling Tasks" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
