@@ -99,3 +99,5 @@
 /sonarlint/securityhotspotstore/3/2/322a940c409a6ac359cf7c82ada6e2a505ea8875
 /sonarlint/securityhotspotstore/6/4/64cc82887bf7f560bc4bb7cfd3906ffe53cc2036
 /sonarlint/*
+/gradle.xml
+/misc.xml
